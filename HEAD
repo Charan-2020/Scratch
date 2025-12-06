@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 1825717639b76673c7f50c1e3dd2b3d7e0d43861 apple <apple@apples-MacBook-Air.local> 1738492043 +0530	commit (initial): initial setup
+1825717639b76673c7f50c1e3dd2b3d7e0d43861 4774985d637eff23be3e9e2f8b913c1d186f2cba apple <apple@apples-MacBook-Air.local> 1738591070 +0530	commit: 3rd feb - added seperation of concerns in models and created owner model
